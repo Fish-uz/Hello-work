@@ -1,5 +1,4 @@
-# Hello-work
-//Tipos de datos basicos de C++
+# Hello-Wold
 
 #include<iostream>
 
